@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGvBqVqIv8DGoDKFquqa02CEc9oJqJNpQeZAOPrGmYJaZNXd68S9jbXBtVkzAk7birG64OK9txr0AzXzQQ8OsQ==",
+  "success": true,
+  "projectFilePath": "C:\\ProgrammingStuffs\\Kudvenkat\\AspNetCore\\EmployeeManagement\\EmployeeManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dombi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dombi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
